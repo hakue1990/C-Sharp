@@ -1,0 +1,11 @@
+C:\Users\hakue\source\repos\OrlenLaboratorium\OrlenLaboratorium\bin\Debug\OrlenLaboratorium.exe.config
+C:\Users\hakue\source\repos\OrlenLaboratorium\OrlenLaboratorium\bin\Debug\OrlenLaboratorium.exe
+C:\Users\hakue\source\repos\OrlenLaboratorium\OrlenLaboratorium\bin\Debug\OrlenLaboratorium.pdb
+C:\Users\hakue\source\repos\OrlenLaboratorium\OrlenLaboratorium\obj\Debug\OrlenLaboratorium.csprojAssemblyReference.cache
+C:\Users\hakue\source\repos\OrlenLaboratorium\OrlenLaboratorium\obj\Debug\OrlenLaboratorium.Properties.Resources.resources
+C:\Users\hakue\source\repos\OrlenLaboratorium\OrlenLaboratorium\obj\Debug\OrlenLaboratorium.csproj.GenerateResource.cache
+C:\Users\hakue\source\repos\OrlenLaboratorium\OrlenLaboratorium\obj\Debug\OrlenLaboratorium.exe
+C:\Users\hakue\source\repos\OrlenLaboratorium\OrlenLaboratorium\obj\Debug\OrlenLaboratorium.pdb
+C:\Users\hakue\source\repos\OrlenLaboratorium\OrlenLaboratorium\obj\Debug\OrlenLaboratorium.Form1.resources
+C:\Users\hakue\source\repos\OrlenLaboratorium\OrlenLaboratorium\obj\Debug\OrlenLaboratorium.gazySuche.resources
+C:\Users\hakue\source\repos\OrlenLaboratorium\OrlenLaboratorium\obj\Debug\OrlenLaboratorium.odzyskWodoru.resources
