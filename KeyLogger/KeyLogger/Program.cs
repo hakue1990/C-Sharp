@@ -28,7 +28,6 @@ namespace KeyLogger
 
         const int SW_HIDE = 0;
 
-
         static void Main(string[] args)
         {
             Program p = new Program();
